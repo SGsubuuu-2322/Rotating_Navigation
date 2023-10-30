@@ -67,6 +67,7 @@ body {
   transform-origin: top left;
 }
 
+/* These stylings are for the navigation menu and its animation... */
 .container.show-nav .circle {
   transform: rotate(-70deg);
 }
@@ -109,6 +110,8 @@ nav ul li + li + li {
   transform: translateX(-200%);
   margin-left: 30px;
 }
+
+/* These stylings are for the content in web page... */
 
 .content {
   max-width: 1000px;
