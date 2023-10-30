@@ -1,3 +1,4 @@
+/* These are general stylings for root and body...*/
 @import url("https://fonts.googleapis.com/css2?family=Young+Serif&display=swap");
 
 * {
@@ -12,6 +13,7 @@ body {
   color: #222;
 }
 
+/* And these are the stylings for navigation and content container */
 .container {
   background-color: #fafafa;
   transform-origin: top left;
@@ -25,6 +27,7 @@ body {
   transform: rotate(-20deg);
 }
 
+/* This is the styling for rotate navigation container and its animation... */
 .circle-container {
   position: fixed;
   top: -100px;
